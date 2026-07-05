@@ -34,6 +34,26 @@ Prototype links:
 - Public ElevenLabs test agent: [Talk to Good Night](https://elevenlabs.io/app/talk-to?agent_id=agent_2501krfhz1k1fnbaygh21mamqec9&branch_id=agtbrch_4001krfhz2mgfcs8kxd50dzdds0z)
 - A/B timing comparison: [audio samples](assets/audio/ab/)
 
+## Try It: Cola MOD (One-Click Install)
+
+Good Night is available as a shareable Cola MOD — a switchable bedtime persona you can test in real use.
+
+[mods/good-night/AGENT.md](mods/good-night/AGENT.md)
+
+### Install
+
+```bash
+cp -r mods/good-night ~/.cola/mods/
+```
+
+Then say **"切换到 good night mode"** in Cola. The MOD encodes the full 5-stage fading interaction (Arrival → Unloading → Slowing → Fading → Exit), response pacing rules, and three persona styles (Mark / Alice / Marian).
+
+### Share Your Test
+
+Tried it? We'd love to see your test log. Open an issue or PR with your experience — what worked, what didn't, what you'd change.
+
+---
+
 ## Design Question
 
 How can a voice agent help someone leave an interaction, rather than keep them engaged?
