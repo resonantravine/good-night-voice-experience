@@ -46,7 +46,7 @@ Good Night is available as a shareable Cola MOD — a switchable bedtime persona
 cp -r mods/good-night ~/.cola/mods/
 ```
 
-Then say **"切换到 good night mode"** in Cola. The MOD encodes the full 5-stage fading interaction (Arrival → Unloading → Slowing → Fading → Exit), response pacing rules, and three persona styles (Mark / Alice / Marian).
+Then say **"切换到 good night mode"** or **"switch to good night mode"** in Cola. The MOD encodes the full 5-stage fading interaction (Arrival → Unloading → Slowing → Fading → Exit), response pacing rules, and three persona styles (Mark / Alice / Marian).
 
 ### Share Your Test
 
